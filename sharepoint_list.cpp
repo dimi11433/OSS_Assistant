@@ -1,3 +1,5 @@
+//NOT FINISHED: I need to update how the user input works
+
 #include <iostream>
 #include <string>
 
@@ -32,4 +34,5 @@ int main() {
     cout << formatEmails(rawData) << endl;
     
     return 0;
+
 }
